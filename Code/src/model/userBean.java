@@ -42,4 +42,9 @@ public class userBean {
 		this.password = password;
 	}
 
+
+}
+
+
+public vodi methd practive(){
 }
