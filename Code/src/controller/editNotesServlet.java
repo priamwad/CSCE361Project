@@ -37,7 +37,7 @@ public class editNotesServlet extends HttpServlet {
 		    	 String DB_URL = "jdbc:mysql://cse.unl.edu:3306/ppoudel";
 		     	//  Database credentials
 		     	String USER = "ppoudel"; 
-		     	String PASS = "9cB73r";   
+		     	String PASS = "";   
 		      
 		         Connection connection = null;
 		         Statement statement = null;
